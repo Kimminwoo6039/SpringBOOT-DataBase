@@ -8,7 +8,7 @@ import java.util.List;
 @SpringBootApplication
 public class JdbcApplication {
 
-	public static void main(String[] args, List list) {
+	public static void main(String[] args) {
 		SpringApplication.run(JdbcApplication.class, args);
 
 
