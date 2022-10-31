@@ -12,6 +12,8 @@ public class JdbcApplication {
 		SpringApplication.run(JdbcApplication.class, args);
 
 
+		String name = "안녕";
+
 
 
 	}
