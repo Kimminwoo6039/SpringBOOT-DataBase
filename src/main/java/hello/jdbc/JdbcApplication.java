@@ -12,7 +12,7 @@ public class JdbcApplication {
 		SpringApplication.run(JdbcApplication.class, args);
 
 
-		System.out.println(dd);
+		System.out.println();
 
 
 	}
